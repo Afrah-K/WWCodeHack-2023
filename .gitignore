@@ -1,0 +1,5 @@
+# Ignore node_modules in studyplanner directory
+/studyplanner/node_modules
+
+# Ignore node_modules in react-native directory
+/react-native/node_modules
